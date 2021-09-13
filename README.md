@@ -1,4 +1,5 @@
-# Projeto-N1-Parte-1
+# Projeto-N1-UAM
+
 N1 - Técnicas de Programação 
 
 Igor Rodrigues Chanes | 21550507
@@ -10,3 +11,4 @@ Ana Laura Pereira Kettene |
 Leonardo Correia Barbosa |
 
 Bruno dos Santos Moreira | 2152313
+
